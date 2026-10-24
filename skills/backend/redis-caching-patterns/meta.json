@@ -1,0 +1,6 @@
+{
+  "name": "redis-caching-patterns",
+  "description": "Patrones de caché Cache-Aside, claves jerárquicas, TTL obligatorio con jitter anti-stampede y bloqueos distribuidos (Redlock).",
+  "globs": "**/*{redis,cache}*.{py,ts,js}",
+  "alwaysApply": false
+}

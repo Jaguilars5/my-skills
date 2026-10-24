@@ -1,0 +1,6 @@
+{
+  "name": "state-management-discipline",
+  "description": "Gestión predecible de estado global (Redux Toolkit / Zustand), selectores memoizados, normalización de entidades y cero estado efímero en store.",
+  "globs": "**/*{store,slice,reducer}*.{ts,tsx,js}",
+  "alwaysApply": true
+}

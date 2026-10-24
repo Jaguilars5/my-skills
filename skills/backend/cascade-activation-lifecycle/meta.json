@@ -1,0 +1,6 @@
+{
+  "name": "cascade-activation-lifecycle",
+  "description": "Ciclo de vida de catálogos y desactivación en cascada segura: detección de dependientes activos, confirmación con cascadeRelated=true (409 Conflict) y transacción atómica.",
+  "globs": "**/*{catalog,activation,repository,service}*.{ts,js,py}",
+  "alwaysApply": false
+}

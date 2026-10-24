@@ -1,0 +1,6 @@
+{
+  "name": "react-hook-form",
+  "description": "Optimización de formularios con React Hook Form: useForm, useWatch, useController, zodResolver, suscripciones aisladas y arrays dinámicos.",
+  "globs": "**/*{form,Form}*.{tsx,jsx,ts}",
+  "alwaysApply": false
+}

@@ -1,0 +1,6 @@
+{
+  "name": "git-commit-discipline",
+  "description": "Estándar de commits semánticos atómicos y documentación del por qué de los cambios en el control de versiones.",
+  "globs": "**/*",
+  "alwaysApply": true
+}

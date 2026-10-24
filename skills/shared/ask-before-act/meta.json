@@ -1,0 +1,6 @@
+{
+  "name": "ask-before-act",
+  "description": "Protocolo estricto de confirmación, análisis de impacto y revisión arquitectónica antes de modificar código o ejecutar comandos destructivos.",
+  "globs": "**/*",
+  "alwaysApply": true
+}

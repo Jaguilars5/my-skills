@@ -1,0 +1,6 @@
+{
+  "name": "react-router-dom-patterns",
+  "description": "Arquitectura de rutas con React Router DOM: objeto ROUTES inmutable as const, ProtectedRouter con control de acceso por roles y layouts con Outlet.",
+  "globs": "**/*{router,route,Route,routes}*.{tsx,ts,jsx,js}",
+  "alwaysApply": false
+}

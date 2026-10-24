@@ -1,0 +1,6 @@
+{
+  "name": "reusable-design-tokens",
+  "description": "Objetos canónicos de diseño Tailwind: inputClassName, selectClassName, tableClassName y headerClassName para evitar clases repetitivas inline.",
+  "globs": "**/*{styles,tokens,form}*.{ts,tsx,js}",
+  "alwaysApply": false
+}

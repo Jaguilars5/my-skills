@@ -1,0 +1,6 @@
+{
+  "name": "nodejs-api-resilience",
+  "description": "APIs Node.js/Express resilientes, rutas explícitas, middlewares de seguridad, errores RFC 9110 y graceful shutdown.",
+  "globs": "**/{server,backend,api}/**/*.{ts,js}",
+  "alwaysApply": false
+}

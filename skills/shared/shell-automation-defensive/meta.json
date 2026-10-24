@@ -1,0 +1,6 @@
+{
+  "name": "shell-automation-defensive",
+  "description": "Automatización robusta en bash/sh con set -euo pipefail, trampas de limpieza, quoting defensivo y compatibilidad Unix/macOS.",
+  "globs": "**/*.{sh,bash}",
+  "alwaysApply": true
+}

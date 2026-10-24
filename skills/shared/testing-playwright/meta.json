@@ -1,0 +1,6 @@
+{
+  "name": "testing-playwright",
+  "description": "Pruebas E2E deterministas para web y Electron con Page Object Model, selectores semánticos, interceptación de red y aislamiento.",
+  "globs": "**/*{test,spec,e2e}*.{ts,tsx,js}",
+  "alwaysApply": true
+}

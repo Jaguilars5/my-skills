@@ -1,0 +1,6 @@
+{
+  "name": "naming-conventions-standard",
+  "description": "Estándar absoluto de nomenclatura de código y protocolo de emojis: camelCase, UPPER_SNAKE_CASE, PascalCase, kebab-case, cero emojis en UI y consola restringida a 4 estados.",
+  "globs": "**/*",
+  "alwaysApply": true
+}

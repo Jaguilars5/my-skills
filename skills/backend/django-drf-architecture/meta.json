@@ -1,0 +1,6 @@
+{
+  "name": "django-drf-architecture",
+  "description": "Arquitectura modular en Django y DRF: servicios y selectores (anti fat-models/views), serializadores estrictos y ORM sin problemas N+1.",
+  "globs": "**/{manage.py,settings*.py,serializers*.py,views*.py,services*.py,selectors*.py}",
+  "alwaysApply": false
+}

@@ -1,0 +1,6 @@
+{
+  "name": "clean-architecture-sot",
+  "description": "Clean Architecture de 3 capas (Domain, Infrastructure, Transport), repository pattern SoT, DTOs explícitos y transacciones inmediatas.",
+  "globs": "**/{server,backend,src}/**/{domain,infrastructure,transport}/**/*.{ts,js}",
+  "alwaysApply": false
+}

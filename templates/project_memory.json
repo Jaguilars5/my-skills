@@ -1,0 +1,21 @@
+{
+  "project_name": "ProjectMemory",
+  "version": "1.0.0",
+  "last_updated": "2026-10-24T00:00:00.000Z",
+  "domain_invariants": [
+    "Single Source of Truth (SoT) relacional obligatorio",
+    "Cero mutaciones directas sin control de concurrencia optimista (CAS version)",
+    "Segregación estricta de funciones y control de acceso RBAC",
+    "Inmutabilidad de registros históricos y auditoría"
+  ],
+  "master_module_index": {},
+  "database_schema": {
+    "tables": []
+  },
+  "exposed_contracts": {
+    "rest_endpoints": [],
+    "ipc_channels": [],
+    "socket_events": []
+  },
+  "technical_debt": []
+}

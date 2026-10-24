@@ -1,0 +1,6 @@
+{
+  "name": "python-clean-architecture",
+  "description": "Estándares modernos en Python: tipado estricto con mypy/typing, gestión con uv/poetry, linting con ruff y testing con pytest.",
+  "globs": "**/*.py",
+  "alwaysApply": false
+}

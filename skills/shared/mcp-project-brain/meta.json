@@ -1,0 +1,6 @@
+{
+  "name": "mcp-project-brain",
+  "description": "Mapeo y memoria canónica del proyecto mediante MCP Brain y grafo project_memory.json: protocolo pre-tarea de consulta y post-tarea de registro atómico.",
+  "globs": "**/*{brain,memory}*.json",
+  "alwaysApply": true
+}

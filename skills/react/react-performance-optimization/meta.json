@@ -1,0 +1,6 @@
+{
+  "name": "react-performance-optimization",
+  "description": "Memoización medida (no preventiva), virtualización obligatoria para >100 elementos, deps estables en hooks y descarga del Renderer.",
+  "globs": "**/*.{tsx,jsx,ts,js}",
+  "alwaysApply": false
+}

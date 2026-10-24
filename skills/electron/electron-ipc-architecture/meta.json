@@ -1,0 +1,6 @@
+{
+  "name": "electron-ipc-architecture",
+  "description": "Arquitectura de Preload bridge seguro, IPC fuertemente tipado, desuscripciones anti-memory leak y payloads menores a 1MB.",
+  "globs": "**/{main,preload,renderer/src/services}/**/*.{ts,js}",
+  "alwaysApply": false
+}

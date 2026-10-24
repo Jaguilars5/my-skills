@@ -1,0 +1,6 @@
+{
+  "name": "vscode-file-nesting",
+  "description": "Configuración avanzada de explorer.fileNesting.patterns en VS Code y Cursor para agrupar visualmente archivos secundarios.",
+  "globs": ".vscode/settings.json",
+  "alwaysApply": true
+}

@@ -1,0 +1,6 @@
+{
+  "name": "sqlite-resilience-concurrency",
+  "description": "Optimización y concurrencia en SQLite como SoT: modo WAL, busy_timeout=5000, BEGIN IMMEDIATE y consultas parametrizadas.",
+  "globs": "**/*{sqlite,db,repository}*.{ts,js,py}",
+  "alwaysApply": false
+}

@@ -1,0 +1,6 @@
+{
+  "name": "changelog-tracker",
+  "description": "Registro continuo y estructurado de cambios en CHANGELOG.md siguiendo Keep a Changelog y Semantic Versioning.",
+  "globs": "CHANGELOG.md",
+  "alwaysApply": true
+}

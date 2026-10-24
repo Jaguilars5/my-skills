@@ -1,0 +1,6 @@
+{
+  "name": "vite-bundle-optimization",
+  "description": "Optimización de empaquetado con Vite, code-splitting con React.lazy, manualChunks y Core Web Vitals.",
+  "globs": "**/{vite.config.*,electron.vite.config.*,src/App.*}",
+  "alwaysApply": false
+}

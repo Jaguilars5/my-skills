@@ -1,0 +1,6 @@
+{
+  "name": "react-component-architecture",
+  "description": "Separación de capas (Domain, Infra, Hooks, Presentation), máximo 5-7 props, compound components y 4 estados visuales obligatorios.",
+  "globs": "**/{components,pages,features}/**/*.{tsx,jsx}",
+  "alwaysApply": false
+}

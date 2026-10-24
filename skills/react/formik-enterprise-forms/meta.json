@@ -1,0 +1,6 @@
+{
+  "name": "formik-enterprise-forms",
+  "description": "Formularios con Formik y Zod: adaptador zodToFormikErrors, inputs custom (CustomInput, CustomSelect), mapeo de errores del servidor y sincronización de límites HTML.",
+  "globs": "**/*{form,Form,formik}*.{tsx,jsx,ts}",
+  "alwaysApply": false
+}

@@ -1,0 +1,6 @@
+{
+  "name": "constants-no-magic-strings",
+  "description": "Prohibición estricta de textos hardcodeados y magic strings; centralización en *.constants.ts con as const.",
+  "globs": "**/*{constants,types,config}*.{ts,js,py}",
+  "alwaysApply": true
+}

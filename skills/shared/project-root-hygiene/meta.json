@@ -1,0 +1,6 @@
+{
+  "name": "project-root-hygiene",
+  "description": "Mantenimiento estricto de una raíz de proyecto limpia, minimalista y libre de archivos temporales, backups o scripts sueltos.",
+  "globs": "*",
+  "alwaysApply": true
+}

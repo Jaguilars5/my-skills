@@ -1,0 +1,43 @@
+{
+  "name": "my-skills",
+  "version": "1.0.0",
+  "description": "Centralized, multi-editor AI skills, subagents and MCP ecosystem hub for Electron, React, Node.js, Python, Django and Databases.",
+  "type": "module",
+  "main": "bin/cli.mjs",
+  "bin": {
+    "my-skills": "./bin/cli.mjs",
+    "skills-hub": "./bin/cli.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jaguilars5/my-skills.git"
+  },
+  "files": [
+    "bin",
+    "skills",
+    "agents",
+    "templates",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node test/verify-cli.mjs"
+  },
+  "keywords": [
+    "ai-agent",
+    "skills",
+    "subagents",
+    "mcp",
+    "project-brain",
+    "cursor-rules",
+    "claude-code",
+    "antigravity",
+    "cline",
+    "electron",
+    "react",
+    "django",
+    "clean-architecture"
+  ],
+  "author": "Jaguilars5",
+  "license": "MIT",
+  "dependencies": {}
+}

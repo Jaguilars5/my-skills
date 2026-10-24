@@ -1,0 +1,6 @@
+{
+  "name": "electron-security-hardening",
+  "description": "Hardening de BrowserWindow, control de navegación estricto, Electron Fuses, ASAR integrity y mitigación de RCE.",
+  "globs": "**/{main,preload}/**/*.{ts,js}",
+  "alwaysApply": false
+}

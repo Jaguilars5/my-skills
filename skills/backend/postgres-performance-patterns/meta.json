@@ -1,0 +1,6 @@
+{
+  "name": "postgres-performance-patterns",
+  "description": "Optimización en PostgreSQL: índices B-Tree/GIN, EXPLAIN ANALYZE, pooling con PgBouncer y migraciones sin bloqueos (Zero-Downtime).",
+  "globs": "**/*{sql,migration,postgres,db}*.{py,ts,sql}",
+  "alwaysApply": false
+}

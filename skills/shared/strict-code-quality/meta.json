@@ -1,0 +1,6 @@
+{
+  "name": "strict-code-quality",
+  "description": "Cero deuda técnica, cero type sniffing, sin casts inseguros, concurrencia CAS (version), semántica RFC 9110 y límites de complejidad.",
+  "globs": "**/*.{ts,tsx,js,jsx,py}",
+  "alwaysApply": true
+}

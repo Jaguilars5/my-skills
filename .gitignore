@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build & Test outputs
+dist/
+out/
+*.tmp
+*.log
+
+# Reference folders
+inital-skills/
+initial-skills/

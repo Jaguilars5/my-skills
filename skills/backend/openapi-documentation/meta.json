@@ -1,0 +1,6 @@
+{
+  "name": "openapi-documentation",
+  "description": "Documentación viva de contratos REST con OpenAPI 3.1 y Swagger sincronizada 1:1 con esquemas Zod/Pydantic y códigos RFC 9110.",
+  "globs": "**/*{openapi,swagger,docs}*.{ts,js,py,json,yaml}",
+  "alwaysApply": false
+}

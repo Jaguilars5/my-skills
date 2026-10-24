@@ -1,0 +1,6 @@
+{
+  "name": "socketio-resilience-patterns",
+  "description": "Arquitectura Zero Trust en WebSockets con Socket.IO: autenticación JWT en handshake, validación Zod en cada evento, guards RBAC y eventos simétricos EMIT/RESPONSE.",
+  "globs": "**/*{socket,events}*.{ts,js}",
+  "alwaysApply": false
+}

@@ -1,0 +1,6 @@
+{
+  "name": "typescript-advanced-contracts",
+  "description": "Contratos Wire vs Domain, validación formal con Zod, tipos inferidos, uniones discriminadas exhaustivas y tipos branded para IDs.",
+  "globs": "**/*.{ts,tsx}",
+  "alwaysApply": true
+}

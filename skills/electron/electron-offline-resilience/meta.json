@@ -1,0 +1,6 @@
+{
+  "name": "electron-offline-resilience",
+  "description": "Operatividad ininterrumpida sin conexión, patrón outbox en disco, reconexión de sockets con backoff y feedback visual en UI.",
+  "globs": "**/{main,renderer/src/services}/**/*.{ts,tsx,js}",
+  "alwaysApply": false
+}

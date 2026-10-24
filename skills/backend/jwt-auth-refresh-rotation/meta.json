@@ -1,0 +1,6 @@
+{
+  "name": "jwt-auth-refresh-rotation",
+  "description": "Autenticación robusta con tokens duales (access + refresh), rotación segura y tokenVersion para detectar reuso fraudulento.",
+  "globs": "**/*{auth,token,jwt}*.{ts,js,py}",
+  "alwaysApply": false
+}

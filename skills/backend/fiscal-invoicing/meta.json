@@ -1,0 +1,6 @@
+{
+  "name": "fiscal-invoicing",
+  "description": "Facturación electrónica y cálculo fiscal: snapshots tributarios inmutables, secuencialidad atómica sin huecos y punteros fiscales.",
+  "globs": "**/*{invoice,fiscal,tax,billing}*.{ts,js,py}",
+  "alwaysApply": false
+}

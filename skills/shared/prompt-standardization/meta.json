@@ -1,0 +1,6 @@
+{
+  "name": "prompt-standardization",
+  "description": "Refinador de requerimientos: corrección automática de errores ortográficos, estructuración en especificaciones trazables BDD y cierre proactivo de ambigüedades.",
+  "globs": "**/*",
+  "alwaysApply": true
+}
